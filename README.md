@@ -202,10 +202,10 @@ Data Modeling (Machine Learning and deep Learning) <br/>
 
 
 <div align="center">
-  <img  src="https://githubreadmestreakstats-kappa.vercel.app//?user=Aly-EL-Badry/&theme=highcontrast" width="60%" ><br/>
-   <img alt="TYP Top Language" height="220px" src="https://githubstats-one.vercel.app/api/top-langs/?username=Aly-EL-Badry&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000"/>
+  <img  src="https://githubreadmestreakstats-kappa.vercel.app/?user=Aly-EL-Badry/&theme=highcontrast" width="60%" ><br/>
+   <img alt="TYP Top Language" height="220px" src="https://githubstats-one.vercel.app/api/top-langs/?username=Aly-EL-Badry&langs_count=10&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000"/>
  
-   <img alt="github status" height="220px" src="https://githubstats-one.vercel.app//api?username=Aly-EL-Badry&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&order=1&rank_icon=github&icon_color=FF8C00"/>
+   <img alt="github status" height="220px" src="https://githubstats-one.vercel.app//api?username=Aly-EL-Badry&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00"/>
 
 
 </div>
@@ -220,6 +220,6 @@ Data Modeling (Machine Learning and deep Learning) <br/>
 
 
 <div align=center>
-   <a href="https://github.com/Ali-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+   <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
