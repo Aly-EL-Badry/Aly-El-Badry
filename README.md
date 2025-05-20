@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Founder+of+VirtuFirm;FCAI+Cairo+University+Student;AI+Engineer+and+Full-stack+Developer;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Founder+of+VirtuFirm;FCAI+Cairo+University+Student;AI+Engineer+and+Data+Scientist;Full-stack+Developer+with+Tailwind,+React+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ.🤎✨
@@ -42,11 +42,7 @@
 <br/>
 
 - 💼 What I Work on btw:
-   - `Satellitor 🌌` From `Alpha 5 🟣` team - `DEPI 🏙`
-      -  Work As :
-           - ⚡ `Data Collector` For The object Detection.
-           - ⚡ `Feature Engineer` Due To My Experiance in Data Science.
-           - ⚡ `Front End Developer` For Deployment The model.
+   - `Satellitor 🌌` From `Alpha 5 🟣` Team.
    - `E-commerce Website 🏬` From `Al Kamal Center 🌿` for Agricultural Products and Services.
         - Work As : ⚡ `Web Developer` for Making the website.
 
