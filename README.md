@@ -43,8 +43,8 @@
 
 - 💼 What I Work on btw:
    - `Satellitor 🌌` From `Alpha 5 🟣` Team.
-   - `E-commerce Website 🏬` From `Al Kamal Center 🌿` for Agricultural Products and Services.
-        - Work As : ⚡ `Web Developer` for Making the website.
+   - `Stay Tunned` From `VirtuFirm`
+      - ???
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
@@ -114,7 +114,7 @@
    
    [![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
    [![Vjudge](	https://img.shields.io/badge/Vjudge:aly_yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vjudge.net/user/aly_yasser)
-   [![LeetCode](https://img.shields.io/badge/-LeetCode:Aly_El_Badry-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/aly_aibak/)
+   [![LeetCode](https://img.shields.io/badge/-LeetCode:Aly_El_Badry-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/aly-el-badry/)
    [![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
 
 
