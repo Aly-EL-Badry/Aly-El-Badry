@@ -30,7 +30,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://aly-el-badry.vercel.app/).
-- ⌚ Currently : Taking training in `Data Science` in `DEPI`.
+- ⌚ Currently : Working on End-To-End Disaster Prediction Project.
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 
 <br/>
@@ -42,9 +42,12 @@
 <br/>
 
 - 💼 What I Work on btw:
-   - `Satellitor 🌌` From `Alpha 5 🟣` Team.
-   - `Stay Tunned` From `VirtuFirm`
-      - ???
+   - `Satellitor 🌌` Start Up in AgriTech Field.
+   - `Disaster Prediction` Full End-To-End Machine learning Project.
+      - Tech Used in it :
+         - Zenml | MLFlow | Docker | DVC | FastAPI | CI\CD | CatBoost.
+   - Searching on internShip as a Data Scientist or ML Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
+   - Try to enchance my Family business `El-Badry-Plast` 
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
@@ -74,7 +77,7 @@
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px; text-align: left;"  align="left">
         <li> Frontend: React, HTML, CSS, JavaScript</li>
-        <li> Backend: Django</li>
+        <li> Backend: Django, NextJs</li>
         <li> Full-Stack Applications</li>
       </ul>
     </td>
@@ -221,3 +224,4 @@ Data Modeling (Machine Learning and deep Learning) <br/>
    <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
