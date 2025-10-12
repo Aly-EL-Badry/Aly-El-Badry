@@ -30,22 +30,20 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://aly-el-badry.vercel.app/).
-- ⌚ Currently : Working on End-To-End Disaster Prediction Project.
+- ⌚ Currently : Searching for an intern as AI Engineer | ML Engineer | Data scientist
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 
 <br/>
 
-- 🔭 I’m currently working at :
-     - Founder in `Virtufirm`
+- 🔭 I’m currently working at :     
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
-     - FreeLancer on `Freelancer` && `Upwork` && `Wuzzuf` 👨‍💻,
+     - Studying Deep Details in AI.
 <br/>
 
 - 💼 What I Work on btw:
-   - `Satellitor 🌌` Start Up in AgriTech Field.
-   - `Disaster Prediction` Full End-To-End Machine learning Project.
+   - `Flight Delay prediction System ` Full End-To-End Deep learning Project.
       - Tech Used in it :
-         - Zenml | MLFlow | Docker | DVC | FastAPI | CI\CD | CatBoost.
+         - Zenml | MLFlow | Docker | DVC | FastAPI | CI\CD | TensorFlow.
    - Searching on internShip as a Data Scientist or ML Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
    - Try to enchance my Family business `El-Badry-Plast` 
 
@@ -224,4 +222,5 @@ Data Modeling (Machine Learning and deep Learning) <br/>
    <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
 
