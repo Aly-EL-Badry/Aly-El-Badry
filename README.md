@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is AI/ML ENG, Aly EL-Deen Yasser, a 2nd year undergraduate from <b>Cairo University</b>, Egypt, <br>
+    This is AI/ML ENG, Aly EL-Deen Yasser, a 3nd year undergraduate AI Student from <b>Cairo University</b>, Egypt, <br>
     A budding <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -35,7 +35,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at :     
+- 🔭 I’m currently working at :
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
      - Studying Deep Details in AI.
 <br/>
@@ -222,5 +222,6 @@ Data Modeling (Machine Learning and deep Learning) <br/>
    <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
 
 
