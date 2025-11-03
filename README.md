@@ -3,7 +3,7 @@
 </div>
 
 <h1 align='center'>
-  Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+  Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
 <p align="center">
@@ -222,6 +222,7 @@ Data Modeling (Machine Learning and deep Learning) <br/>
    <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
 
 
 
