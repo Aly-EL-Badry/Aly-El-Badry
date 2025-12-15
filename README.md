@@ -37,6 +37,7 @@
 
 - 🔭 I’m currently working at :
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
+     - `Star Union` Community as Ai Vice Head.
      - Studying Deep Details in AI.
 <br/>
 
@@ -222,6 +223,7 @@ Data Modeling (Machine Learning and deep Learning) <br/>
    <a href="https://github.com/Aly-EL-Badry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
 
 
 
