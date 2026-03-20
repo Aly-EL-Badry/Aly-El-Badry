@@ -42,11 +42,8 @@
 <br/>
 
 - 💼 What I Work on btw:
-   - `Flight Delay prediction System ` Full End-To-End Deep learning Project.
-      - Tech Used in it :
-         - Zenml | MLFlow | Docker | DVC | FastAPI | CI\CD | TensorFlow.
    - Searching on internShip as a Data Scientist or ML Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
-   - Try to enchance my Family business `El-Badry-Plast` 
+   - Learning RAG & MCP
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
