@@ -170,6 +170,7 @@ Data Processing and visualization <br/>
 <img src="https://img.shields.io/badge/matplotlib%20-%2311537a.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAACOlBMVEUAAADI2OGyyNXU4OfK2eLR3ubg6e7h6e7z9/n09/n4+vv////////////////////////P3OTH1+DP3eT////6+vr+/f77/Pz9/Pz7+vukvs35+Pn19fb3+Pn/3Ga0ydb/pGb+o2To7/O/0dyqwtCowc+mv86hvMvy9fjW4umzyNWxx9Tu8vXw8PHt7e3Y4+r92WP9oWL8/f74+frv7+7n6Obk49/09PXy8vPr8PPq6Ofd2NPXzsjWyL7OxKLMqpPVnXf/22Tqm2TvzmL0nWL3nWDZ5Ovm5eXE1d7B0tvg4Nrh3dnTw7jSy7bRya/Ou6+p0KjOt6i+zY7QoYDU8HnWv3bnyWby0WP102L712H29/fu8fPn5eLd4t3Y29y8z9nM2czU1MaUob28z7zSxbzN0rrHzq+v/q2tzayn8qWj2aLBy57MsJ3Kp4/DoouHi4rOvonF2n/JnH3h/3zRmnTbm2/exG3bmGrGkGrgmWjtnGT5n2Hq7vHc3+TS3tu0ytba3NTT29PG1dPe1M67wM7V0MzZ1cjG0MWbp8PO0sKvyMLQ08Gqxb/Fw77Iwbq50biTwbaUu7TNx7N8vq+qxKqVsKqr+amssqimqKam56TJsaKg4p66w52ZzZiYt5fPwpabn5bHvJOWkY3QqIyJj4vNpYmptIjGt4TMoIPA0oK4yn6vkn7H3nyjkHzR63va+HnM5XjLt3eJgXfUmG/bwm7Xv27gm2vkmmjJsmfvnGSJgWLYkF/smF5dXVpx5ODWAAAAFHRSTlMA+vbo4tTKwpqIgVlUOy0eGODp4M10dCUAAAMbSURBVDjLlVQFUxtBFA4OoSmlfWsn5AIETUKjuFsLFC+l7u4tTt3d3d3d9b91d5vCZehMp2/u5mZnv3vve/I9i8lSkhPjY6JmRMXEJyanWP5mk5PiorMy7RkzM+yZWdFxSZMnIKZYYxV7QTECoAA4JzdfibVOiYTYEpy700vKN64AQBiEpec5E2xmyKTU7AZPW9VIfeU8piFGJKwgO3WSCTJVKd7f9dXh8FZ5sEooQ4hykEuZOgaypSoubVO9w+EwPjXLWLqPic98JdUWppuQ7QLW3Oc1DGOkHLiLwI2VAYqICq7shN/Erc4CAKKV9RuGo36Drqlk6ZvuzhDVCOfktMq6xOYBYET0ls+cUFchw/71r7c/bWJEhMuLFXVKUtIBGAVcdK3GMPoXEAhu3f7iqI6BIF4CJYk3IC4foCiIAfyeyjqjpgyRld2vVhWqGAQ1yI9LsSRH5wLMetsa9Pug8cloXYfu7uxe78aEAVAEkBudbEnMygFty/Q5sysW+KC0z3tfa9raGZJOZM1zshIt8ZkYQh/S0gSqSS8brGpc9WyPcCJeRgBnxlti7ACHejgmLa33Y0Vz29CpR8cJ5g6w6C/H2WMsURmcTq3EVFf3Dtx9+e7OgSM7qQwkCWVEWWbMpKS1tnr6XP701vZ8+fZz87Jli9R5CGkqUjVEFy8O+5k7p2dg9paKc5cfXNl87yCPRTBWKSYIcz+ST+nj261LQwHPvrMXFy28dfL5Cj8z85F56W4CPvCcOX8sAEtuLiwf2uAx5yXqE/6l6MQu3qzT15f4Or4/DJnqI+ssz4wwRom7fe1y5q78UVXmH6uz7Jc8YF3HAMF1l9YgKOmqH2zT/vQr3HdEgKo6Adh7dXV7Ic/ivbemsoTIvpvmh6fKEF2+dvW6ID+VDzvqtpViMT+mOSQgYh5e036hkVAgHTXe0W2BBqd1fJ5VgjhIOCxSQZh7Y91wS7Gc57Au5otbKRhgWDokJZtadijTbCZ9ueQFYpSO6Usr5vqK0GmBjETYuE4bhE4j9Z6XLi4i9T5xb+Tn5uCIvfFf++ffe+wX+Pmth4AjkG4AAAAASUVORK5CYII=&logoColor=white" alt="Matplotlib">
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
 
 AI, Machine Learning & Deep Learning <br/>
@@ -200,7 +201,6 @@ LLMs, RAG & Agentic AI<br/>
 <div align='center'>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<img alt="Anaconda" src="https://img.shields.io/badge/anaconda%20-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
 ![CoLab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 ![VisualStudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
@@ -211,7 +211,7 @@ LLMs, RAG & Agentic AI<br/>
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
-<img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" /> 
+![Roboflow](https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white)
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
