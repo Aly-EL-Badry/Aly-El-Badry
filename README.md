@@ -3,12 +3,12 @@
 </div>
 
 <h1 align='center'>
-  Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+  Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry.
 </h1>
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Cairo+University+AI+Student;AI+Engineer+and+Data+Scientist;Ai+Vice+Head+@Star+Union;Full-stack+Developer+with+Tailwind,+Next+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Cairo+University+AI+Student;AI+Engineer+and+Data+Scientist;Ai+intern+@Aitronix;Ai+Vice+Head+@Star+Union;Full-stack+Developer+with+Tailwind,+Next+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ.🤎✨
@@ -30,20 +30,22 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://aly-el-badry.vercel.app/).
-- ⌚ Currently : Searching for an intern as AI Engineer | ML Engineer | Data scientist
+- ⌚ Currently : AI intern @Aitronix
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 
 <br/>
 
 - 🔭 I’m currently working at :
-     - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
+     - `EL-Badry plast` as Sales & Customer Representer and trying to merge between Tech and marketing.
      - `Star Union` Community as Ai Vice Head.
-     - Studying Deep Details in AI.
+     - `Aitronix` as AI intern
 <br/>
 
 - 💼 What I Work on btw:
-   - Searching on internShip as a Data Scientist or ML Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
-   - Learning RAG & MCP
+   - Replying Agent on facebook and messanger page project in @Aitronix
+   - Searching on internShip as a Data Scientist or AI Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
+   - Learning Agentic Rag | Llamaindex | Langchain.
+   - interested in Advanced Senior Topics
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
@@ -52,28 +54,28 @@
       <b>Data Science</b>
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px; text-align: left;"  align="left">
-        <li> Python (Pandas, NumPy, Matplotlib, snsborn)</li>
-        <li> Data Cleaning & Analysis</li>
-        <li> Data Visualization</li>
-        <li> Predictive Modeling</li>
+        <li> Data analysis & EDA</li>
+        <li> Building ML & DL Systems </li>
+        <li> Monitoring ML pipelines</li>
+        <li> Deploying Ml in production</li>
       </ul>
     </td>
     <td align="center" width="33%" style="padding: 20px; font-size: 18px; background-color: #f5f5f5; border: 1px solid #ddd;">
       <b>AI Development</b>
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px;" align="left">
-        <li> TensorFlow & PyTorch</li>
+        <li> Computer Vision </li>
         <li> Natural Language Processing (NLP)</li>
-        <li> Computer Vision</li>
-        <li> AI Model Deployment</li>
+        <li> Agentic & Rag Agentic Systems</li>
+        <li> AI System Designing</li>
       </ul>
     </td>
     <td align="center" width="33%" style="padding: 20px; font-size: 18px; background-color: #f5f5f5; border: 1px solid #ddd;">
       <b>Web Development.</b>
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px; text-align: left;"  align="left">
-        <li> Frontend: React, HTML, CSS, JavaScript</li>
-        <li> Backend: Django, NextJs</li>
+        <li> Frontend: React, NextJS, Tailwind, TS </li>
+        <li> Backend: Django, FastAPI, Flask</li>
         <li> Full-Stack Applications</li>
       </ul>
     </td>
