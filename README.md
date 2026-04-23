@@ -42,7 +42,7 @@
 <br/>
 
 - 💼 What I Work on btw:
-   - Replying Agent on facebook and messanger page project in @Aitronix
+   - Replying Agent on facebook and messanger page project in `@Aitronix`
    - Searching on internShip as a Data Scientist or AI Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
    - Learning Agentic Rag | Llamaindex | Langchain.
    - interested in Advanced Senior Topics
@@ -65,7 +65,7 @@
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px;" align="left">
         <li> Computer Vision </li>
-        <li> Natural Language Processing (NLP)</li>
+        <li> Natural Language Processing </li>
         <li> Agentic & Rag Agentic Systems</li>
         <li> AI System Designing</li>
       </ul>
