@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Cairo+University+AI+Student;AI+Engineer+and+Data+Scientist;Ai+intern+@Aitronix;Ai+Vice+Head+@Star+Union;Full-stack+Developer+with+Tailwind,+Next+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ex-Ai+Engineer+@LILT+AI;FCAI+Cairo+University+AI+Student;AI+Engineer+and+Data+Scientist;Ai+intern+@Aitronix+&+@FlyRank+AI;Full-stack+Developer+with+Tailwind,+Next+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ.🤎✨
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is AI/ML ENG, Aly EL-Deen Yasser, a 3nd year undergraduate AI Student from <b>Cairo University</b>, Egypt, <br>
+    This is AI/ML ENG, Aly EL-Deen Yasser, a 4th year undergraduate AI Student from <b>Cairo University</b>, Egypt, <br>
     A budding <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -30,21 +30,22 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://aly-el-badry.vercel.app/).
-- ⌚ Currently : AI intern @Aitronix
+- ⌚ Currently :
+     - Currently Looking for Junior Ai engineer Position
+     - Planning on Starting My Start Up
+     - Finishing My intern in @Aitronix
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 
 <br/>
 
 - 🔭 I’m currently working at :
      - `EL-Badry plast` as Sales & Customer Representer and trying to merge between Tech and marketing.
-     - `Star Union` Community as Ai Vice Head.
      - `Aitronix` as AI intern
 <br/>
 
 - 💼 What I Work on btw:
-   - Replying Agent on facebook and messanger page project in `@Aitronix`
    - Searching on internShip as a Data Scientist or AI Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
-   - Learning Agentic Rag | Llamaindex | Langchain.
+   - Learning Crew AI | LLMops.
    - interested in Advanced Senior Topics
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
