@@ -33,19 +33,17 @@
 - ⌚ Currently :
      - Currently Looking for Junior Ai engineer Position
      - Planning on Starting My Start Up
-     - Finishing My intern in @Aitronix
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 
 <br/>
 
 - 🔭 I’m currently working at :
      - `EL-Badry plast` as Sales & Customer Representer and trying to merge between Tech and marketing.
-     - `Aitronix` as AI intern
 <br/>
 
 - 💼 What I Work on btw:
    - Searching on internShip as a Data Scientist or AI Engineer [My CV](https://drive.google.com/file/d/1VLVe4lDtm8JXd4C29IoQ1b6D4lcv9e6h/view?usp=sharing)
-   - Learning Crew AI | LLMops.
+   - Learning `System Design` & `Computer Vision` & `Advanced Topics in AI`
    - interested in Advanced Senior Topics
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
